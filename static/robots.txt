@@ -110,4 +110,4 @@ User-agent: Webzio-Extended
 Disallow: /
 User-agent: YouBot
 Disallow: /
-Sitemap: https://www.domain-anda.my.id/sitemap.xml
+Sitemap: https://templates-ekasaputra-satu.vercel.app/sitemap.xml
